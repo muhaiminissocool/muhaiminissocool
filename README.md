@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muhaiminissocool
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on github
+- 👀 I’m interested in scratch😺
+- 🌱 I’m currently learning how to code in github
   
 
 <!---
